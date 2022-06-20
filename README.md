@@ -1,3 +1,4 @@
+
 <h1 align='center'>Formulário III</h1>
 
 <img src='Sem título.png'>
@@ -24,3 +25,7 @@
 - [HTML]()
 - [CSS]()
 - [JAVASCRIPT]()
+=======
+# Formulario-3
+ Formulário para treinar a logica de programação!
+>>>>>>> 08d2a692b9acedad04e025af6bee4e945bd2e38e
